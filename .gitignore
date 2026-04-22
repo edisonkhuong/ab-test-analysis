@@ -1,0 +1,21 @@
+# Raw data — too large for GitHub, reproducible by re-downloading from Kaggle
+data/ab_data.csv
+data/ab_data_clean.csv
+data/tableau_exports/ab_test_clean.csv
+
+# Tableau workbook files
+dashboard/*.twb
+dashboard/*.twbx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
